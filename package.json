@@ -21,7 +21,7 @@
   },
   "main": "./lib/PushController.js",
   "scripts": {
-"start": "node ./bin/pushserver.js",
+"start": "node ./bin/pushserver.js -c example.config.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
