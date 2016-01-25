@@ -15,8 +15,8 @@
         },
         "feedback": {
             "address": "feedback.sandbox.push.apple.com",
-            "cert": "/Users/atk847/Documents/MyDocuments/PushChat/node-pushserver/certs/cert.pem",
-            "key": "/Users/atk847/Documents/MyDocuments/PushChat/node-pushserver/certs/key.pem",
+            "cert": "./certs/cert.pem",
+            "key": "./certs/key.pem",
             "interval": 43200,
             "batchFeedback": true
         }
