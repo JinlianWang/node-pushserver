@@ -1,7 +1,7 @@
 {
     "webPort": 8008,
 
-    "mongodbUrl": "mongodb://Alice:Moon1234@localhost:27017/mydb",
+    "mongodbUrl": "mongodb://heroku_cvkj7pfq:tsoq1e8k29ukus17b43044dp9i@ds049945.mongolab.com:49945/heroku_cvkj7pfq",
 
     "gcm": {
         "apiKey": "YOUR_API_KEY_HERE"
